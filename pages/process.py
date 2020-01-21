@@ -19,7 +19,7 @@ column1 = dbc.Col(
 
 
             """
-        ),
+        ), html.Img(src='assets/target.png', className='img-fluid')
 
     ],
 )
